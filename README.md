@@ -1,4 +1,4 @@
-WSEALUG's homepage
+# WSEALUG's homepage in development
 
 ## Development
 The site uses jekyll, a static site generator. Learn more
